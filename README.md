@@ -6,10 +6,7 @@
 
 https://undressm.github.io/Great-Gig-In-the-Sky/
 
-# My Blog
-
-
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+# My Data Science Blog
 
 
 ## What To Do Next?
