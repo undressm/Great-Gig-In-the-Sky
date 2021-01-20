@@ -6,9 +6,9 @@
 
 https://undressm.github.io/Great-Gig-In-the-Sky/
 
-# My Data Science {ersonal Blog
+# My Data Science Personal Blog
 
-ljl;kj;l
+time to learn how this works!
 
 ## What To Do Next?
 
